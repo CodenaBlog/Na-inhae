@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<h2> My tech steck </h2>
+![HTML5](https://img.shields.io/badge/html?logo=html&logoColor=ff0&labelColor=ffffff)
+
 <!--
 **Na-inhae/Na-inhae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
