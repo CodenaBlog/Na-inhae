@@ -12,11 +12,9 @@
 </div>
 
 
-<style>
   .skill-box{
     display: flex;    
   }
-</style>
 
 <!--
 **Na-inhae/Na-inhae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
